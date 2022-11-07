@@ -1,0 +1,11 @@
+C:\Users\Banana\Desktop\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe.config
+C:\Users\Banana\Desktop\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe
+C:\Users\Banana\Desktop\RandomNumber\RandomNumber\bin\Debug\RandomNumber.pdb
+C:\Users\Banana\Desktop\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.AssemblyReference.cache
+C:\Users\Banana\Desktop\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Banana\Desktop\RandomNumber\RandomNumber\obj\Debug\RandomNumber.Main.resources
+C:\Users\Banana\Desktop\RandomNumber\RandomNumber\obj\Debug\RandomNumber.Properties.Resources.resources
+C:\Users\Banana\Desktop\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.GenerateResource.cache
+C:\Users\Banana\Desktop\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Banana\Desktop\RandomNumber\RandomNumber\obj\Debug\RandomNumber.exe
+C:\Users\Banana\Desktop\RandomNumber\RandomNumber\obj\Debug\RandomNumber.pdb
